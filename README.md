@@ -1,5 +1,5 @@
 # 파이썬 크롤링 실전 (2025-01)
-Python crawling study from inflearn lecture
+Python crawling study through inflearn lecture
 - Basic
   - css
   - html tag
